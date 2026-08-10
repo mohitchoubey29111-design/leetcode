@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -13,4 +14,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
