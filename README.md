@@ -7,6 +7,7 @@
 | [0231-power-of-two](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0342-power-of-four) |
+| [1399-count-largest-group](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1399-count-largest-group) |
 | [2119-a-number-after-a-double-reversal](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2485-find-the-pivot-integer](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2843-count-symmetric-integers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2843-count-symmetric-integers) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0001-two-sum) |
+| [1399-count-largest-group](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1399-count-largest-group) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2843-count-symmetric-integers) |
+## Counting
+|  |
+| ------- |
+| [1399-count-largest-group](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1399-count-largest-group) |
 <!---LeetCode Topics End-->
