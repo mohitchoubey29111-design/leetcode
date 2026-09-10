@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0342-power-of-four) |
@@ -15,6 +16,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
@@ -32,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1528-shuffle-string](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1528-shuffle-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -72,4 +75,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
