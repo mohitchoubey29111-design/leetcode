@@ -33,6 +33,7 @@
 | [0001-two-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0001-two-sum) |
 | [0835-image-overlap](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1528-shuffle-string](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1528-shuffle-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -50,11 +51,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0001-two-sum) |
 | [1399-count-largest-group](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1399-count-largest-group) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0131-palindrome-partitioning) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
@@ -93,6 +96,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -116,4 +120,8 @@
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
