@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0326-power-of-three) |
@@ -43,6 +44,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1528-shuffle-string](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1528-shuffle-string) |
@@ -94,6 +96,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
