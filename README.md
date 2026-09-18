@@ -49,6 +49,7 @@
 | [0043-multiply-strings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0131-palindrome-partitioning) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1528-shuffle-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -58,6 +59,7 @@
 | [0001-two-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0001-two-sum) |
 | [1399-count-largest-group](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1399-count-largest-group) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -111,6 +113,7 @@
 | [0324-wiggle-sort-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -131,6 +134,7 @@
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
