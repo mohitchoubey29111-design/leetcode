@@ -15,6 +15,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2485-find-the-pivot-integer](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2843-count-symmetric-integers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2843-count-symmetric-integers) |
+| [3524-find-x-value-of-array-i](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3871-count-commas-in-range-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Bit Manipulation
 |  |
@@ -46,6 +47,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## String
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Backtracking
 |  |
 | ------- |
