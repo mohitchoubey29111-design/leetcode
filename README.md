@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0036-valid-sudoku) |
+| [0075-sort-colors](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
@@ -118,6 +119,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -132,6 +134,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -161,5 +164,10 @@
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
