@@ -122,6 +122,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0075-sort-colors) |
+| [0295-find-median-from-data-stream](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0075-sort-colors) |
+| [0295-find-median-from-data-stream](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -176,4 +178,16 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
