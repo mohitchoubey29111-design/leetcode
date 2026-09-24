@@ -43,6 +43,7 @@
 | [0324-wiggle-sort-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0561-array-partition) |
 | [0661-image-smoother](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0661-image-smoother) |
 | [0835-image-overlap](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,6 +135,7 @@
 | [0295-find-median-from-data-stream](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -161,6 +163,7 @@
 | [0179-largest-number](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0561-array-partition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
@@ -201,4 +204,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
