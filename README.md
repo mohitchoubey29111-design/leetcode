@@ -47,6 +47,7 @@
 | [0661-image-smoother](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0661-image-smoother) |
 | [0835-image-overlap](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1122-relative-sort-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1528-shuffle-string](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1528-shuffle-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -73,6 +74,7 @@
 | [0001-two-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0036-valid-sudoku) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1122-relative-sort-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1122-relative-sort-array) |
 | [1399-count-largest-group](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1399-count-largest-group) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -137,6 +139,7 @@
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1122-relative-sort-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
@@ -184,10 +187,12 @@
 | ------- |
 | [0075-sort-colors](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
+| [1122-relative-sort-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1122-relative-sort-array) |
 ## Segment Tree
 |  |
 | ------- |
@@ -208,4 +213,5 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
