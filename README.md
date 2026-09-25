@@ -51,6 +51,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1528-shuffle-string](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1528-shuffle-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -145,6 +146,7 @@
 | [1096-brace-expansion-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1122-relative-sort-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -192,6 +194,7 @@
 | [0075-sort-colors](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
 | [1122-relative-sort-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1122-relative-sort-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
 | ------- |
