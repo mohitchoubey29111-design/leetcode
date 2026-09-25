@@ -64,6 +64,7 @@
 | [0067-add-binary](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0179-largest-number) |
+| [1096-brace-expansion-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1528-shuffle-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -74,6 +75,7 @@
 | [0001-two-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0036-valid-sudoku) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1096-brace-expansion-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1122-relative-sort-array) |
 | [1399-count-largest-group](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1399-count-largest-group) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0131-palindrome-partitioning) |
+| [1096-brace-expansion-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -139,6 +142,7 @@
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1122-relative-sort-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -214,4 +218,12 @@
 | ------- |
 | [0561-array-partition](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1122-relative-sort-array) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
