@@ -232,4 +232,8 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1096-brace-expansion-ii) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
