@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0179-largest-number) |
@@ -141,6 +142,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -162,6 +164,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
