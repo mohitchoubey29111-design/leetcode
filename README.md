@@ -6,6 +6,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0326-power-of-three) |
@@ -41,6 +42,7 @@
 | [0016-3sum-closest](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0036-valid-sudoku) |
+| [0066-plus-one](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0324-wiggle-sort-ii) |
