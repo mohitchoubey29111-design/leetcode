@@ -160,6 +160,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0278-first-bad-version) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -320,4 +321,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
