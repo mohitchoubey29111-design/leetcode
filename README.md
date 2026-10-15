@@ -51,6 +51,7 @@
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0561-array-partition) |
 | [0661-image-smoother](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0661-image-smoother) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1122-relative-sort-array) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0278-first-bad-version) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
