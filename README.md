@@ -65,6 +65,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -109,6 +110,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -256,6 +258,7 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Design
 |  |
@@ -334,4 +337,5 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
