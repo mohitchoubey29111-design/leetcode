@@ -50,6 +50,7 @@
 | [0324-wiggle-sort-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0561-array-partition) |
 | [0661-image-smoother](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0661-image-smoother) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -189,6 +190,7 @@
 | [0295-find-median-from-data-stream](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -277,6 +279,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0506-relative-ranks](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0506-relative-ranks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Data Stream
 |  |
