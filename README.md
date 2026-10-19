@@ -8,6 +8,7 @@
 | [0043-multiply-strings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0342-power-of-four) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -372,6 +374,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
