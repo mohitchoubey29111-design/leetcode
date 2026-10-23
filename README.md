@@ -31,6 +31,7 @@
 | [0067-add-binary](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0342-power-of-four) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Recursion
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
