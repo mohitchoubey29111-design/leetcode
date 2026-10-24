@@ -16,6 +16,7 @@
 | [1399-count-largest-group](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1399-count-largest-group) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2119-a-number-after-a-double-reversal](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2409-count-days-spent-together](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2843-count-symmetric-integers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2843-count-symmetric-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -108,6 +109,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2409-count-days-spent-together](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
