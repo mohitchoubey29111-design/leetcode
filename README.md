@@ -63,6 +63,7 @@
 | [0835-image-overlap](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1122-relative-sort-array) |
+| [1254-number-of-closed-islands](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1528-shuffle-string](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1528-shuffle-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -175,6 +176,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -228,6 +230,7 @@
 | [0036-valid-sudoku](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0036-valid-sudoku) |
 | [0661-image-smoother](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0661-image-smoother) |
 | [0835-image-overlap](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
 |  |
@@ -330,6 +333,7 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Database
 |  |
 | ------- |
@@ -376,6 +380,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
