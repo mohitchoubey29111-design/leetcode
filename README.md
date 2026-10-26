@@ -52,6 +52,7 @@
 | [0066-plus-one](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0179-largest-number) |
@@ -141,6 +142,7 @@
 | [0032-longest-valid-parentheses](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0174-dungeon-game](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0174-dungeon-game) |
 | [0678-valid-parenthesis-string](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0678-valid-parenthesis-string) |
