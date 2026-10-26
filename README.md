@@ -83,6 +83,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -178,6 +179,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 | [0835-image-overlap](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -334,6 +337,7 @@
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Database
 |  |
 | ------- |
@@ -382,6 +386,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
