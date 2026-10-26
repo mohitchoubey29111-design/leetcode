@@ -6,6 +6,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0070-climbing-stairs) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -399,6 +401,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitchoubey29111-design/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
