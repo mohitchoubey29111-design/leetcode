@@ -26,6 +26,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3871-count-commas-in-range-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
@@ -96,6 +97,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3886-sum-of-sortable-integers) |
