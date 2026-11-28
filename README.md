@@ -105,6 +105,7 @@
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## String
 |  |
 | ------- |
@@ -257,6 +258,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -301,6 +303,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -347,6 +350,7 @@
 | [0295-find-median-from-data-stream](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0506-relative-ranks](https://github.com/mohitchoubey29111-design/leetcode/tree/master/0506-relative-ranks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitchoubey29111-design/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mohitchoubey29111-design/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Data Stream
 |  |
